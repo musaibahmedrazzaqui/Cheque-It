@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "applied-primacy-386920",
+  "private_key_id": "82753469654802f285fad0094e1839d1de4d6f52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDeHTpFWSgHejX6\n0VYZ8wqzR70r0MR0GctOXmV2ndXWnbBXx/M9saK4fYcu9TAp3N74Zx5D4pYqRKwK\nHAqJX5aCWPpiCzXuvmZP1TjnNdFwWw4ls8Lp64WOcIjl0NBgZuiUZqnRl+ZKVIgE\ne5IYWi9pxDPxnYvc+rAA1pErAruEdAMJGBrTEmJ7Rf1Xx4g9DR933Kk+cqmOwTrh\nnazZCH71k7qBOACqui0RQDObaozIO2P1v4EBmMgP7vXEvlx4OMxnbCEWTW3GaNBb\nRHXU1fqZ8b4Q3QYSIjyJCyOxDE1qxaQb0kAgPjhFwdSUiQ3wOCUv9TmsOMzDuQgt\nkwr4yt+BAgMBAAECggEACO4I49/dQEu1Xt5KsA65kpKi9DTXqR6eXLS72eR87pIh\naa4OxUoJKOdXEi1mYHsnoGSuQ/wYncjBV+4KWGfg6mBUagZZsT2zaaiWDz72gCYR\nBWAFnpegTiU6bm7nlHCeuin/JX+OESqhMKOdMIseVooTrTZFzhPAFBCMU+aEuSLz\nuGGwTPM3bOO5+RujvsBejEbxcn0wOxUkvwe0xJ+L7hlSQiFYSJMVi9fJP2n8a6kN\nz7Dag2ccWzWP18v7rImwWWT4HpCqZtrEd1j52mzLsrBM9x4nQGaSFZYuQztRux2U\nqQe2VhwbxYcegm4feb1pnQ9pm9uG7HueybS0qoUitwKBgQDvgXe0QfpQOFIZYEbF\nL+IuO/8KwdeZnxULEFEqOlxkO8gWKIxYzuihhp1V6JTel49klytDH+bQWLGx0KMe\n/1hSdE8kIvXxFxBHhFOokxuLtx30WLqLKt7mqOIoW2QDLkn6qbfl5KSYvLWWcsU2\niXeJ9of+ZsAIvjM5y5judc1vxwKBgQDtaSS28/wiQA43zKklZ2sJ6hch0jC7WTNN\n3yYWQSyHQV+x7/A5/rIR2x31b0kv6quxT2PR8cukKNwJJzaTx8zYSKXR+F3KGmpt\n6kfzavVIq94KIMOqLr3Ka3YoU/9p4mK2rlq73QU09DWlNrTOlt+hekMczT1K8XiZ\nOIXSz2jGdwKBgQCMPPzAeZl9+1xnK26E64K+m7a8r7/0XafOsKE13rJWpoKEJv32\nykCAw/fAY803gPsfZTyZs0ZNXIG/onDBJ7apoRzuBeKIZn7LwXnSzUBl0LUjbAje\nkB2wZdb21nx7OFFtCo95dyXBoU2aaF19j4SFLet3VObAt83623ISvrup5QKBgQCG\nxe2FvrQfbWWk35YWGcN1+WHwXTY05MpvJoKkl5MDpWUBykgBZEkKQe2b6vUNMpcN\nLRhpkm4cXuWqfIxLEF2FWphnvirgFGbexuTZlppwCsEd1sO81JQBWUfWVPjlzxJi\nyk/P3gSarxfVFl1F+fgx3wpCS3DEHphrwt6VchD0uQKBgF3aCyOKx5a5I87kLDBG\noaFXKPCcvRgyER2844BFdksrQwim2Kischw6PMdpUS6gwT1yTnvpQDg9tus8wBAP\nDvqt6lW8jL6Nfk4A31Dz0YgaksuEJEenliK5/2pYFuD5j5vPnB3/m/FhWfSQ2iJs\nmEHkSjZ1Wjf7rN/Yf9WICE4+\n-----END PRIVATE KEY-----\n",
+  "client_email": "farjad@applied-primacy-386920.iam.gserviceaccount.com",
+  "client_id": "108834475888621740150",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/farjad%40applied-primacy-386920.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
